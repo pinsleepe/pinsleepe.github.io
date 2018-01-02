@@ -4,4 +4,6 @@ title: "Zemblanity Data Science, Site Launch"
 date: 2017-12-20
 ---
 
-TBW
+<pre><code class="python">
+print "hello world"
+</code></pre>
