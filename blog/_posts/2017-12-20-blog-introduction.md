@@ -34,14 +34,28 @@ There is a word for it - *semantic bleaching*.
 Zemblanity in contrast, is an unavoidable discovery of what we don't
 want to know. For example finding out that your grandma has died. I
 know, how morbid... The manifestation of zemblanity in our new data
-driven reality  is much more sinister. Let me give here a little
-background. For the past few centuries the dominant form of economic
-system was and is capitalism. The way the wealth is accumulated
-defines the type of capitalism. Thus we had the mass-production
-corporate capitalism that later morphed into financial capitalism. The
-Economist announced in the middle of 2017 that *the world’s most
-valuable resource is no longer oil, but data*. Surely, capitalism is
-taking us on another ride, and it is there we find zemblanity.
+driven reality  is much more sinister. This unpleasant discovery is
+made not by a data scientist but by us, the source of data and 
+as a customer after it has been analysed. Small data from individuals
+collected with internet enabled devices is only one exhaust that is
+fuelling *big data*, but extraction and analysis of it is 
+little regulated.
+
+Because there is little or no regulation, the monetisation of free
+behavioural data is a revenue model for startups and big established
+companies alike. We, as providers of data, have no knowledge on how
+it is stored, accessed and how this access is granted. Often this data
+carries *personably identifiable information* (PII), which means that
+companies own our digital proxies that helps them to predict our future
+behaviour. 
+
+For the past few centuries the dominant form of economic system was
+and is capitalism. The way the wealth is accumulated defines the type
+of capitalism. Thus we had the mass-production corporate capitalism
+that later morphed into financial capitalism. The Economist announced
+in the middle of 2017 that *the world’s most valuable resource is no
+longer oil, but data*. Surely, capitalism is taking us on another
+ride, and it is there we find zemblanity.
 
 This new form of capitalism, by some called *surveillance capitalism*,
 is a place where world is reborn as data. Don't get me wrong, no
