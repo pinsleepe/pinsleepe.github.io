@@ -1,11 +1,10 @@
 ---
 layout: post
 title: "Does Table Mountain burn more on weekends?"
+subtitle: "Analysis of wild fires on Table mountain"
 date: 2018-03-21
-tags: fire frequency Table Mountain 
+tags: [fire frequency Table Mountain] 
 ---
-
-## Intro
 
 Living in Cape Town exposes you to many great things, like great food
 and beautiful vistas, but also to occasional fynbos fires on Table
