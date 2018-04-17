@@ -1,8 +1,9 @@
 ---
 layout: post
 title: "Asbestos Clean up in Poland"
+subtitle: "Plotly visualisation of asbestos around Poland"
 date: 2018-02-11
-tags: asbestos Poland plotly
+tags: [asbestos Poland plotly]
 ---
 
 Welcome to the first post of 2018! It's about asbestos...
